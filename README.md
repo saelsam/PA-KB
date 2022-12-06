@@ -34,5 +34,4 @@ Tujuan Akhir:
 <h2>Dataset</h2>
 
 <p>Kami mengambil salah satu dataset yang kami temukan di internet.
-Kaggle Dataset URL: https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset untuk digunakan sebagai data train dan validation</p>
-<p>Kami menambah data test yang kami ambil dari google dan foto sendiri</p>
+Kaggle Dataset URL: https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset untuk digunakan sebagai data train dan validation serta kami menambah data test yang kami ambil dari google dan foto sendiri sesuai dengan label foto</p>
