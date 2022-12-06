@@ -21,7 +21,7 @@
 <ul>
 	<li>Sael Samuel Rude' : Ketua Kelompok, Data Collecting, Data Visualisasi</li>
   <li>Shalsabyla Putrie Rahmadaniah : Data Augmentasi (Preprocessing)</li>
-	<li>Ahmad Zidan Maulidinnur : Data Modelling</li>
+	<li>Ahmad Zidan Maulidinnur : Data Modelling, Evaluasi Data</li>
 </ul>
 
 <h2>Mengklasifikasi Jumlah 4 Jenis Pada Cuaca</h2>
