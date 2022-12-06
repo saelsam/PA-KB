@@ -1,4 +1,4 @@
-<h1>Kelompok 3 A1 Kecerdasan Buatan</h1>
+<h1>Kelompok 2 A2 Kecerdasan Buatan</h1>
 <ul>
   <li>2009106018 - Ahmad Zidan Maulidinnur</li>
 	<li>2009106034 - Sael Samuel Rude'</li>
