@@ -47,3 +47,21 @@ Kaggle Dataset URL: https://www.kaggle.com/datasets/pratik2901/multiclass-weathe
 	</ul>
 	<p>Spliting dengan rasio : </p>
 	<p> Train : Val : Test = 70% : 20% : 10% </p>
+
+<h2>Labels</h2>
+
+<p>Label data diambil penamaan file : cuaca+nomor</p>
+<ul>
+		<li>cloudy : menunjukkan cuaca berawan</li>
+		<li>rain : menunjukkan cuaca hujan</li>
+    <li>shine : menunjukkan cuaca cerah</li>
+    <li>sunrise : menunjukkan cuaca matahari terbit</li>
+	</ul>
+
+<h2>Tahap - Tahap Pengerjaan :</h2>
+
+### 1. Data Collecting
+<p> Membuat Folder Data Validation, dari Data Train & Test</p>
+<p> Mengetahui Jumlah data perfolder, label,dan dimensinya</p>
+<p> Visualisasi 1 Gambar setiap folder : train,test,val</p>
+<p> Visualisasi Data Sampel dari Data Train</p>
