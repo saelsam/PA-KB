@@ -35,3 +35,15 @@ Tujuan Akhir:
 
 <p>Kami mengambil salah satu dataset yang kami temukan di internet.
 Kaggle Dataset URL: https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset untuk digunakan sebagai data train dan validation serta kami menambah data test yang kami ambil dari google dan foto sendiri sesuai dengan label foto</p>
+
+<br>
+	<p>Dataset terdiri dari 1163 gambar cuaca matahari terbit, cerah, berawan dan hujan.</p>
+	<ul>
+		<li>Gambar Data Train Terdiri dari 825</li>
+		<li>Gambar Data Test Terdiri dari 111</li>
+		<li>Gambar Data Validation diambil dari google dan foto sendiri sebanyak 227</li>
+	</ul>
+		<p>Dengan Target Ukuran 150x150 pixels</p>
+	</ul>
+	<p>Spliting dengan rasio : </p>
+	<p> Train : Val : Test = 70% : 20% : 10% </p>
