@@ -40,8 +40,8 @@ Kaggle Dataset URL: https://www.kaggle.com/datasets/pratik2901/multiclass-weathe
 	<p>Dataset terdiri dari 1163 gambar cuaca matahari terbit, cerah, berawan dan hujan.</p>
 	<ul>
 		<li>Gambar Data Train Terdiri dari 825</li>
-		<li>Gambar Data Test Terdiri dari 111</li>
-		<li>Gambar Data Validation diambil dari google dan foto sendiri sebanyak 227</li>
+		<li>Gambar Data Validation Terdiri dari 227</li>
+    <li>Gambar Data Test diambil dari google dan foto sendiri sebanyak 111</li>
 	</ul>
 		<p>Dengan Target Ukuran 150x150 pixels</p>
 	</ul>
