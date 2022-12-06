@@ -13,8 +13,9 @@
 - [Tahap - Tahap Pengerjaan](#tahap---tahap-pengerjaan-)
   - [Data Collecting](#1-data-collecting)
   - [Data Preprocessing - Data Augmentasi](#2-data-preprocessing---data-augmentasi)
-  - [Data Modelling](#3-data-modelling)
-  - [Prediksi Gambar Menggunakan Model](#4-prediksi-gambar-menggunakan-model)
+  - [Data Analysis and Visualization](#3-Data-Analysis-and-Visualization)
+  - [ Data Modelling](#4-Data-Modelling)
+  - [Evaluasi](#5-evaluasi)
 
 <h2>Jobs Desk : </h2>
 <ul>
@@ -61,7 +62,18 @@ Kaggle Dataset URL: https://www.kaggle.com/datasets/pratik2901/multiclass-weathe
 <h2>Tahap - Tahap Pengerjaan :</h2>
 
 ### 1. Data Collecting
-<p> Membuat Folder Data Validation, dari Data Train & Test</p>
-<p> Mengetahui Jumlah data perfolder, label,dan dimensinya</p>
-<p> Visualisasi 1 Gambar setiap folder : train,test,val</p>
-<p> Visualisasi Data Sampel dari Data Train</p>
+<p> Menentukan Path Folder Data Validation, dari Data Train & Test</p>
+
+### 2. Data Preprocessing - Data Augmentasi
+<p>Membuat Data Gambar Augmentasi dan Visualisasi Data Augmentasi</p>
+
+### 3. Data Analysis and Visualization
+<p>Menampilkan Meta Data</p>
+
+### 4. Data Modelling
+<p>Membuat Model Sequential dan Visualisasi : Accuracy & Loss Model</p>
+<p>Menampilkan visualisasi model</p>
+
+### 5. Evaluasi
+<p>Membuat Model Prediksi dengan Folder Data Test</p>
+
